@@ -1,60 +1,42 @@
-<h1 align="center">Hi 👋, I'm Bura</h1>
-<h3 align="center">I enjoy turning ideas into systems that make work easier 🚀</h3>
+# Hi 👋, I'm Biruk Demissie
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biruk-demissie&label=Profile%20Views&color=0e75b6&style=flat" alt="biruk-demissie" />
-</p>
+### Software Engineer | Full-Stack Developer | AI Enthusiast
 
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working on **Addis Ababa Court Management System**
-- 🌱 Learning **Next.js** and **AWS** to strengthen full-stack & cloud skills
-- 👯 Open to collaborating on **projects that simplify real-world problems**
-- 📫 Reach me at: **burademissie23@gmail.com**
+- 🎓 Fresh graduate from **Addis Ababa University**
+- 💻 Building with **Next.js, React, Django, TypeScript & PostgreSQL**
+- 🚀 Interested in **AI, SaaS products, and Open Source**
+- 📫 Reach me: **your-email@example.com**
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/biruk-demissie-46a6ab350/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/biruk-demissie/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=for-the-badge&logo=next.js)
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biruk-demissie&show_icons=true&locale=en&layout=compact" />
-</p>
+## 🔥 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biruk-demissie" />
-</p>
+- Full-stack web applications
+- AI-powered tools
+- Medical technology software solutions
+- Open-source contributions
 
 ---
 
-⭐ *Always curious, always learning, and always building.*
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio.vercel.app)
