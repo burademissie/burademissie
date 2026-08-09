@@ -5,7 +5,7 @@
 - 🎓 Fresh graduate from **Addis Ababa University**
 - 💻 Building with **Next.js, React, Django, TypeScript & PostgreSQL**
 - 🚀 Interested in **AI, SaaS products, and Open Source**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **birukdemissie23@gmail.com**
 
 ---
 
